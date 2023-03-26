@@ -1,2 +1,1 @@
-# react.github.io
-react controlled form
+# boilerplate-react-functional-public
